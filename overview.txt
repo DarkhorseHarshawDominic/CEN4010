@@ -1,0 +1,19 @@
+-Names of Members:
+Dominic Harshaw
+Christian Fecteau
+Kevin Nguyen
+Ryan Gumbayan
+
+-Some thing that was interesting about working with our group was that all of us were
+still fairly new to Java and had asked questions between each other in order to complete
+parts of the project. We also mainly used Discord as a means to communicate and work together
+through sharing our screens and messaging useful links to clear up confusion.
+
+-Dominic had mostly done the coding itself, while Christian, Kevin and I both helped and provided him with
+resources and tips on how best to approach different parts of the project.
+
+-Minutes spent
+Ryan: 60-120 mins
+Kevin: 100-120 mins
+Dominic: 180-240 mins
+Christian: 90-150 mins
